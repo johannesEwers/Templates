@@ -19,7 +19,7 @@ Copyright (c) `Jahr` `Name des Urhebers`.
 
 Copyright (c) `Jahr` `Name des Schutzgegenstandes` Mitwirkende (vgl. Autoren.md / Mitwirkende.md)
 
-Diese Arbeit steht unter den Bedingungen der `Generall Free License Agreement`, wie sie von `Name des Urhebers` veröffentlicht wurde.
+Diese Arbeit steht unter den Bedingungen der `General Free License Agreement`, wie sie von `Name des Urhebers` veröffentlicht wurde.
 Entweder in der Lizenzversion `1.0` oder in einer späteren Version.
 
 Für diese Arbeit gibt es keine Garantie, außer bei einer kommerzielle Nutzung 
@@ -30,7 +30,7 @@ Die Lizenz ist zu finden unter `Adresse`.
 
 # 1. Definitionen
 A. Die Lizenz / Diese Lizenz
-: Bezieht sich auf die Version `1.0` der `Generall Free License Agreement` .
+: Bezieht sich auf die Version `1.0` der `General Free License Agreement`.
 
 B. Kompatible Lizenz
 : Bezieht sich auf alle Lizenzen, die in der Praxis mit den Verpflichtungen dieser Lizenz vereinbar sind.
