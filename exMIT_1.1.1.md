@@ -1,3 +1,5 @@
+# Extended MIT License (exMIT) 1.1
+
 Copyright (c) <YEAR> <COPYRIGHT HOLDER>.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this 
