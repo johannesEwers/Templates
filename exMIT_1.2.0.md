@@ -1,4 +1,4 @@
-# Extended MIT License (exMIT) 1.1
+# Extended MIT License (exMIT) 1.2
 
 Copyright (c) <YEAR> <COPYRIGHT HOLDER>.
 
@@ -11,17 +11,18 @@ or logos of the copyright holder(s) - without the written permission of the copy
 holder(s) until the death of the copyright holder(s) and to permit persons to whom the 
 Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or 
+1. The above copyright notice and this permission notice shall be included in all copies or 
 substantial portions of the Software.
 
-No trademark or patent rights are waived, abandoned, surrendered, licensed or otherwise 
+2. No trademark or patent rights are waived, abandoned, surrendered, licensed or otherwise 
 affected by this document. No exceptions or expiry periods apply in this respect.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+3. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
 PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR(S) OR COPYRIGHT HOLDER(S) BE 
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
 OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
 DEALINGS IN THE SOFTWARE.
+
 
 This license document version is released under CC0 1.0 Universal.
