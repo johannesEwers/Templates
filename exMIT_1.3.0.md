@@ -1,4 +1,4 @@
-# Extended MIT License (exMIT) 1.3
+# Extended MIT License (exMIT) 1.4
 
 Copyright (c) <YEAR> <COPYRIGHT HOLDER>.
 
@@ -21,7 +21,11 @@ affected by this document. No exceptions or expiry periods apply.
 	without the permission of the copyright holder(s). This condition does not continue 
 	to apply after the death of all copyright holders.
 
-4. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+4. In case of violation of the terms, the author may stop the further use of the software. 
+The copyright owner may also allow the re-use again, e.g. if the terms are no longer 
+violated.
+
+5. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
 PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR(S) OR COPYRIGHT HOLDER(S) BE 
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
