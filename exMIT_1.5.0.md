@@ -12,6 +12,7 @@ persons to whom the Software is furnished to do so, subject to the following con
 substantial portions of the Software.
 
 2. Any person who contributes voluntarily to the Software (the "Contributor") is
+	
 	a. agreeing with the conditions of this license.
 	b. granting the copyright holder(s) the right to license all contributions under 
 	   the same license as the Software.
