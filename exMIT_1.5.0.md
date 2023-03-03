@@ -14,17 +14,21 @@ substantial portions of the Software.
 2. Any person who contributes voluntarily to the Software (the "Contributor") is
 	
 	a. agreeing with the conditions of this license.
+	
 	b. granting the copyright holder(s) the right to license all contributions under 
 	   the same license as the Software.
+	
 	c. mentioned as Contributor in the Software.
 
 3. No trademark or patent rights are waived, abandoned, surrendered, licensed or otherwise 
 affected by this document. No exceptions or expiry periods apply.
 
 4. No Software or any copy of the Software, in whole or in part, shall be
+	
 	a. advertised, promoted, or commercialised with the name(s), trademark(s) or 	
 	   logo(s) of the copyright holder(s) without specific prior written permission of 
 	   the copyright holder(s).
+	
 	b. advertised, promoted, or commercialised with the name of any Contributor 
 	   without specific prior written permission of the respective Contributor(s).
 
