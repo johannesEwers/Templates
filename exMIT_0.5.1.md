@@ -1,4 +1,4 @@
-# Extended MIT License (exMIT) 1.5
+# Extended MIT License (exMIT) 0.5.1
 
 Copyright (c) <YEAR> <COPYRIGHT HOLDER>.
 
